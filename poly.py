@@ -1,3 +1,4 @@
+#method overriding.
 # Parent class
 class Payment:
     def pay(self):
