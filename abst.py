@@ -23,7 +23,7 @@ class Bus(Vehicle):
     def start_engine(self):
         print("Bus engine started")
 
-# Creating objects and calling start_engine()
+# Creating objects 
 car = Car()
 bike = Bike()
 bus = Bus()
